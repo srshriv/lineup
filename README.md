@@ -2,8 +2,8 @@
 
 A responsive event management website built for the K Explore Web Designing task. Lineup lets users explore upcoming campus events, search and filter them by category, open full event details, and register through a validated form. Registrations are saved to the browser with Local Storage, so users can return later and see their tickets without an account.
 
-Live site: `https://<your-username>.github.io/lineup/`
-Repository: `https://github.com/<your-username>/lineup`
+Live site: https://lineup-sristees-projects.vercel.app
+Repository: https://github.com/srshriv/lineup
 
 ## Features
 
